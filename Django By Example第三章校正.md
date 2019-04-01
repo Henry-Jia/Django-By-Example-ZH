@@ -209,10 +209,13 @@ Django拥有多种内置的模板过滤器（template filters）允许你对模�
     This is a post formatted with markdown
     --------------------------------------
     *This is emphasized* and **this is more emphasized**.
+    
     Here is a list:
+    
     * One
     * Two
     * Three
+    
     And a [link to the Django website](https://www.djangoproject.com/)
 
 在浏览器中查看帖子的渲染情况，你会看到如下图所示：
